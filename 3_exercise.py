@@ -2,6 +2,11 @@
 import operator
 
 x = {1: "e", 3: "d", 4: "c", 2: "d", 0: "s"}
+
+# sort by value
+for w in sorted(x, key=x.get):
+    print(w, x[w])
+
 sortedx = sorted(x.items(), key=operator.itemgetter(1))  # sorted by value
 sortedx2 = sorted(x.items(), key=operator.itemgetter(0))  # sorted by key
 print(sortedx)
@@ -339,8 +344,7 @@ for i, j in dic1.items():
         continue
     break
 
-
-#fix it:
+# fix it:
 print("=====================================")
 x = {1: "e", 3: "d", 4: "c", 2: "d", 0: "s"}
 # sortedx = sorted(x.items(), key=operator.itemgetter(1))  # sorted by value
@@ -361,3 +365,4 @@ print(a)
 
 # print(sorted(x.values()))
 # print sv
+

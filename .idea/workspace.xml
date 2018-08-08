@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42f8c73b-7463-480e-ad9c-3461c2d13495" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/venv/3_hackerranks.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_hackerranks.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_exercise.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_exercise.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_hackerranks.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_hackerranks.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,17 +16,19 @@
     <session id="-667333639">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="8" />
+          <entry key="project.closed" value="10" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.10" value="2" />
           <entry key="project.open.time.11" value="1" />
-          <entry key="project.open.time.12" value="1" />
-          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.12" value="2" />
+          <entry key="project.open.time.14" value="2" />
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.9" value="3" />
-          <entry key="project.opened" value="13" />
+          <entry key="project.opened" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -40,13 +44,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="15" />
-          <entry key="py" value="7697" />
+          <entry key="py" value="8171" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="15" />
-          <entry key="Python" value="7697" />
+          <entry key="Python" value="8171" />
         </counts>
       </usages-collector>
     </session>
@@ -65,8 +69,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2_session.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1275">
-              <caret line="85" column="62" selection-start-line="85" selection-start-column="58" selection-end-line="85" selection-end-column="62" />
+            <state relative-caret-position="1860">
+              <caret line="124" column="37" selection-start-line="124" selection-end-line="125" />
             </state>
           </provider>
         </entry>
@@ -74,26 +78,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/3_session.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="431">
-              <caret line="74" column="8" lean-forward="true" selection-start-line="74" selection-start-column="8" selection-end-line="74" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3_exercise.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4589">
-              <caret line="342" column="8" selection-start-line="342" selection-start-column="8" selection-end-line="342" selection-end-column="8" />
+            <state relative-caret-position="1110">
+              <caret line="74" column="8" selection-start-line="74" selection-start-column="8" selection-end-line="74" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/3_exercise.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="368" lean-forward="true" selection-start-line="368" selection-end-line="368" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/3_hackerranks.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+            <state relative-caret-position="360">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
         </entry>
@@ -118,12 +122,12 @@
       <find>first break</find>
       <find>combine</find>
       <find># three_largest = nlargest(3, d1, key=d1.get)</find>
-      <find>format</find>
       <find>see here</find>
       <find>see</find>
       <find>here</find>
       <find>?</find>
       <find>print</find>
+      <find>format</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -137,13 +141,15 @@
         <option value="$PROJECT_DIR$/second.py" />
         <option value="$PROJECT_DIR$/2_second.py" />
         <option value="$PROJECT_DIR$/3_third.py" />
-        <option value="$PROJECT_DIR$/3_exercise.py" />
         <option value="$PROJECT_DIR$/venv/3_hackerranks.py" />
         <option value="$PROJECT_DIR$/3_session.py" />
+        <option value="$PROJECT_DIR$/2_session.py" />
+        <option value="$PROJECT_DIR$/3_hackerranks.py" />
+        <option value="$PROJECT_DIR$/3_exercise.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="77" />
     <option name="y" value="47" />
     <option name="width" value="1279" />
@@ -179,6 +185,9 @@
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -195,7 +204,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.3_hackerranks">
+  <component name="RunManager" selected="Python.3_exercise">
     <configuration name="3_exercise" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -310,10 +319,10 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.3_hackerranks" />
         <item itemvalue="Python.3_exercise" />
-        <item itemvalue="Python.3_third" />
+        <item itemvalue="Python.3_hackerranks" />
         <item itemvalue="Python.second" />
+        <item itemvalue="Python.3_third" />
         <item itemvalue="Python.first" />
       </list>
     </recent_temporary>
@@ -332,14 +341,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="25" width="1299" height="743" extended-state="7" />
+    <frame x="67" y="25" width="1299" height="743" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22805643" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22805643" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.335034" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.335034" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -410,29 +420,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/2_session.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1275">
-          <caret line="85" column="62" selection-start-line="85" selection-start-column="58" selection-end-line="85" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3_exercise.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4589">
-          <caret line="342" column="8" selection-start-line="342" selection-start-column="8" selection-end-line="342" selection-end-column="8" />
+        <state relative-caret-position="1860">
+          <caret line="124" column="37" selection-start-line="124" selection-end-line="125" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/3_session.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="431">
-          <caret line="74" column="8" lean-forward="true" selection-start-line="74" selection-start-column="8" selection-end-line="74" selection-end-column="8" />
+        <state relative-caret-position="1110">
+          <caret line="74" column="8" selection-start-line="74" selection-start-column="8" selection-end-line="74" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/3_hackerranks.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+        <state relative-caret-position="360">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3_exercise.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="368" lean-forward="true" selection-start-line="368" selection-end-line="368" />
         </state>
       </provider>
     </entry>
