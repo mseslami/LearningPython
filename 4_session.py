@@ -12,6 +12,15 @@ for item in mylist:
 # in evey package we should have a __init__.py file (jump to pythontest project)
 # touch in cmd means just create it
 # write : filename tree >> to see it's tree in cmd (search it)
+# SampleProject
+# .
+# ├── sample_project.py
+# ├── module_one.py
+# └── pakage/
+#     ├── __init__.py
+#     ├── module_two.py
+#     └── module_three.py
+
 
 # open return a string file. mode: read about it,
 
@@ -81,3 +90,7 @@ dispatcher("g")
 
 # import os
 # os.getcwd()
+
+# import sys
+# sys.platform
+# sys.exit()
