@@ -10,7 +10,7 @@ for item in mylist:
 # flush just speed up; it dosnt' save data in buffer. turn flush on to  send data to file immediately
 
 # in evey package we should have a __init__.py file (jump to pythontest project)
-# touch in cmd means just create it
+# touch in cmd means just create it. by  "cat" open .txt
 # write : filename tree >> to see it's tree in cmd (search it)
 # SampleProject
 # .
@@ -25,7 +25,7 @@ for item in mylist:
 # open return a string file. mode: read about it,
 
 myfile = open('/home/maryam/Documents/sample.txt', mode="+w")
-myfile.writelines("df       hdkf \ndjf f" )
+myfile.writelines("df       hdkf \ndjf f")
 
 print('\n================')
 print(myfile.tell())
@@ -81,12 +81,15 @@ newdic = {item: item2 for item in mylist for item2 in mylist2}
 print(newdic)
 
 mydict = {"a": "b", "c": "d"}
+
+
 def dispatcher(a):
     print(dict.get(mydict, a, "else"))
+
+
 dispatcher("g")
 
 # you may need exit numbers (just search about it)
-
 
 # import os
 # os.getcwd()
